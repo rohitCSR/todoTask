@@ -16,7 +16,7 @@ const ListTable = ({ table, getTableData, getUserData }) => {
   };
 
   return (
-    <div>
+    <div className='tableview'>
       <table>
         <thead>
           <tr>

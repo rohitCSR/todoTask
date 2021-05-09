@@ -10,7 +10,7 @@ export const getUserData = (id, userId) => async (dispatch) => {
     dispatch({
       type: GET_USER_DATA,
       payload: {
-        data,
+        data: data,
         todoId: id,
       },
     });
