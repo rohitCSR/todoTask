@@ -7,13 +7,13 @@ This challenge was a part of internship hiring. I created using React
 Clone the project
 
 ```bash
-  git clone https://github.com/rohitCSR/vintage-hub.git
+  git clone https://github.com/rohitCSR/todoTask.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd vintage-hub
+  cd todoTask
 ```
 
 Install dependencies
